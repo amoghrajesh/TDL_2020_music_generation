@@ -2,7 +2,6 @@
 Single instrument music generation using two models -> 
 <br>
 1) Restricted Boltzmann machine and 
-<br>
 2) Stacked LSTM model
 <br>
 The dataset used is stored in PES1201701295_data which contains a list of .mid files. You may choose any number of .mid files and place it in the required location.
