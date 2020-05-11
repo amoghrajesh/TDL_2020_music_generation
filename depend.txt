@@ -1,0 +1,6 @@
+pip install py-midi
+pip install tqdm
+pip install tensorflow==1.14
+pip install music21
+pip install ipython
+pip install Keras
